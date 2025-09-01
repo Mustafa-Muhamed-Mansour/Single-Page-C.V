@@ -10,7 +10,7 @@ This project is to create the website using HTML only.
 
 
 # 📸Screenshots
-<img src = "" width = "800" height = "700">
+<img src = "https://github.com/user-attachments/assets/c8c06eb1-5628-40ac-80ee-f938ed016f04" width = "800" height = "700">
 
 
 
@@ -23,7 +23,7 @@ This project is to create the website using HTML only.
 <table>
  <tr>
    <video width="320" height="240" controls>
-        <td> <video src = "" type="video/mp4"/> </td>
+        <td> <video src = "https://github.com/user-attachments/assets/a43c3721-b944-4196-9463-d58204ef26b5" type="video/mp4"/> </td>
    </video>
  </tr>
 </table>
